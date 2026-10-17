@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hafıza Oyunu</string>
+    
+    <!-- Ana ekran -->
+    <string name="title">🧠 Hafıza Oyunu</string>
+    <string name="high_score">En Yüksek Skor: %d</string>
+    <string name="difficulty_label">Zorluk Seviyesi</string>
+    <string name="theme_label">Kart Teması</string>
+    <string name="sound_label">🔊 Ses Efektleri</string>
+    <string name="start_game">🎮 Oyunu Başlat</string>
+    <string name="leaderboard">🏆 Skor Tablosu</string>
+    <string name="settings">⚙️ Ayarlar</string>
+    
+    <!-- Zorluk seviyeleri -->
+    <string name="difficulty_easy">Kolay (4x4)</string>
+    <string name="difficulty_medium">Orta (6x6)</string>
+    <string name="difficulty_hard">Zor (8x8)</string>
+    
+    <!-- Temalar -->
+    <string name="theme_emoji">Emojiler</string>
+    <string name="theme_animals">Hayvanlar</string>
+    <string name="theme_numbers">Sayılar</string>
+    <string name="theme_foods">Yiyecekler</string>
+    <string name="theme_sports">Sporlar</string>
+    <string name="theme_flags">Bayraklar</string>
+    
+    <!-- Oyun ekranı -->
+    <string name="time_label">Süre: %s</string>
+    <string name="moves_label">Hamle: %d</string>
+    <string name="score_label">Skor: %d</string>
+    <string name="matched_label">Eşleşen: %d/%d</string>
+    <string name="back">Geri</string>
+    <string name="restart">Yeniden Başlat</string>
+    
+    <!-- Dialog -->
+    <string name="victory_title">Oyun Tamamlandı!</string>
+    <string name="congratulations">🎉 Tebrikler!</string>
+    <string name="save_score">Skoru Kaydet</string>
+    <string name="play_again">Tekrar Oyna</string>
+    <string name="main_menu">Ana Menü</string>
+    <string name="enter_name">Adınızı girin</string>
+    <string name="anonymous">Anonim</string>
+    
+    <!-- Restart dialog -->
+    <string name="new_game">Yeni Oyun</string>
+    <string name="restart_confirm">Mevcut oyunu sıfırlamak istediğinize emin misiniz?</string>
+    <string name="yes">Evet</string>
+    <string name="no">Hayır</string>
+    
+    <!-- Exit dialog -->
+    <string name="exit_title">Çıkış</string>
+    <string name="exit_confirm">Oyundan çıkmak istediğinize emin misiniz? İlerlemeniz kaybolacak.</string>
+    
+    <!-- Skor tablosu -->
+    <string name="leaderboard_title">🏆 Skor Tablosu</string>
+    <string name="no_scores">Henüz skor yok</string>
+    <string name="be_first">İlk skoru sen kaydet!</string>
+    <string name="scores_error">Skorlar yüklenemedi</string>
+    <string name="retry">Tekrar denemek için tıklayın</string>
+    <string name="points">puan</string>
+    <string name="moves">hamle</string>
+    
+    <!-- Bildirimler -->
+    <string name="notification_channel_name">Hafıza Oyunu Bildirimleri</string>
+    <string name="notification_channel_desc">Hafıza oyunu duyuruları ve bildirimleri</string>
+    
+    <!-- Toast mesajları -->
+    <string name="score_saved">Skor başarıyla kaydedildi! 🎉</string>
+    <string name="score_save_error">Skor kaydedilemedi</string>
+</resources>

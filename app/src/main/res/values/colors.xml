@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Ana Tema Renkleri -->
+    <color name="primary">#6200EE</color>
+    <color name="primary_dark">#3700B3</color>
+    <color name="accent">#03DAC5</color>
+
+    <!-- Gradient Colors -->
+    <color name="gradient_start">#FF6B95</color>
+    <color name="gradient_end">#B388FF</color>
+
+    <!-- Durum Renkleri -->
+    <color name="success">#69F0AE</color>
+    <color name="warning">#FFE57F</color>
+    <color name="error">#FF8A80</color>
+    <color name="info">#81D4FA</color>
+
+    <!-- Zorluk Seviyeleri -->
+    <color name="level_easy">#A5D6A7</color>
+    <color name="level_medium">#FFE082</color>
+    <color name="level_hard">#EF9A9A</color>
+
+    <!-- Temel Renkler -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <!-- Arka Plan Renkleri -->
+    <color name="background_dark">#1A142E</color>
+    <color name="background_main">#F5F5F5</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="card_background_transparent">#80FFFFFF</color>
+
+    <!-- Kart Renkleri -->
+    <color name="card_front">#FFFFFF</color>
+    <color name="card_back">#6200EE</color>
+    <color name="matched_card">#4CAF50</color>
+
+    <!-- Sıralama Renkleri (Leaderboard) -->
+    <color name="gold">#FFD700</color>
+    <color name="silver">#C0C0C0</color>
+    <color name="bronze">#CD7F32</color>
+
+    <!-- Metin Renkleri -->
+    <color name="text_secondary">#757575</color>
+
+    <!-- Progress Bar Renkleri -->
+    <color name="progress_background">#E0E0E0</color>
+
+    <!-- Switch ve Diğer Bileşenler -->
+    <color name="switch_track">#BDBDBD</color>
+
+</resources>
